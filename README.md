@@ -1,6 +1,6 @@
 <h1 align="center">INFINITYFLIX</h1>
 <div align="center">
-<img src="https://github.com/Felipeoliveirasouza/ping-pong/assets/153692420/c59cf26c-7f1a-4d61-a066-18e9d6552579" width="500px](https://github.com/Felipeoliveirasouza/infinityflix/assets/153692420/12b21194-86c9-4a00-ab0c-0b30139cbdcd" />
+<img src="https://github.com/Felipeoliveirasouza/infinityflix/assets/153692420/12b21194-86c9-4a00-ab0c-0b30139cbdcd" />
 </div>
 <p>Bem-vindo ao Ping Pong Game! Este é um jogo simples de ping pong desenvolvido em JavaScript. É um projeto divertido e educacional para quem quer aprender mais sobre desenvolvimento de jogos ou aprimorar suas habilidades de programação.</p>
 <h2>Como Jogar?</h2>
