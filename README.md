@@ -4,4 +4,4 @@
 </div>
 <p>Bem-vindo ao repositório do nosso site de filmes online! Aqui, você encontrará todas as informações necessárias para entender o funcionamento do nosso projeto. Nosso site oferece uma plataforma de streaming de filmes que permite aos usuários ver a uma variedade de filmes.</p>
 <h2>Onde posso acessar?</h2>
-<p>No seu PC, entre no Link: https://felipeoliveirasouza.github.io/ping-pong/</p>
+<p>No seu PC, entre no Link: https://felipeoliveirasouza.github.io/infinityflix/</p>
